@@ -1,0 +1,79 @@
+## LAUNCHPATH COACHING INTAKE FORM
+
+👤 Basic Information
+
+    Name:
+
+    Email:
+
+    University / Institution (if applicable):
+
+    Location (City, Country):
+
+    Current Status:
+    ☐ Student
+    ☐ Graduate
+    ☐ Bootcamp Trainee
+    ☐ Career Changer
+
+🎯 Career Goals
+
+    What kind of job are you aiming for?
+    (E.g., Frontend Developer, Fullstack Engineer, Backend Developer, QA Tester)
+
+    Preferred Tech Stack or Interests (if any):
+    (E.g., React, Java, Node.js, Spring Boot, TypeScript, etc.)
+
+    Preferred Work Location / Country:
+    (E.g., Germany, remote in EU, Berlin startups, etc.)
+
+    When are you planning to start applying?
+    ☐ Immediately
+    ☐ In 1–3 months
+    ☐ In 4–6 months
+    ☐ Not sure
+
+🧠 Current Skills & Experience
+
+    Programming languages you're comfortable with:
+    (e.g., Python, JavaScript, Java, C++, etc.)
+
+    Have you completed any personal projects or coursework projects?
+    ☐ Yes
+    ☐ No
+    If yes, briefly describe one (and link if possible):
+    Project Name:
+    Short Description:
+    Link (GitHub/Live):
+
+    Any internship / Werkstudent / job experience in tech?
+    ☐ Yes
+    ☐ No
+    If yes, provide short info: role, company, time period.
+
+🛠️ Application Materials
+
+    Do you already have a CV?
+    ☐ Yes (will share)
+    ☐ No
+
+    Do you have a LinkedIn profile?
+    ☐ Yes (link: ______________)
+    ☐ No
+
+    Do you have a GitHub or portfolio site?
+    ☐ Yes (link: ______________)
+    ☐ No
+
+🚧 Challenges & Needs
+
+    What are your biggest questions or blockers right now?
+    (e.g., "What roles should I aim for?", "How do I prepare for technical interviews?", "I don't know how to structure my CV")
+
+    What would you most like to focus on in our first session?
+    ☐ Career plan
+    ☐ CV / LinkedIn
+    ☐ Internship search
+    ☐ Job applications
+    ☐ Interview preparation
+    ☐ Other: ______________
